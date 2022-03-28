@@ -1,0 +1,33 @@
+#divconsulta
+{
+    margin-top: 330px;
+    height: 330px;
+}
+
+#div4
+{
+    margin: 15px;
+    padding: 15px;
+}
+
+#divconsulta2
+{
+    margin: 15px;
+}
+
+.position-absolute
+{
+    left: 85px;
+    top: 55px;
+}
+
+body
+{
+    background-image: url("images/black.jpg");
+}
+
+strong.lgris
+{
+    color:#FE7F2D;
+}
+

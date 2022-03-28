@@ -1,0 +1,94 @@
+#div1
+{
+    margin-top: 150px;
+    height: 750px;
+}
+
+#div2
+{
+    height: 700px;
+}
+
+#div3
+{
+    height: 650px;
+    width: 1250px;
+    text-align: center;
+    margin: auto;
+}
+
+#nombres
+{
+    width: 800px;
+    text-align: center;
+    margin: auto;
+}
+
+#apellidos
+{
+    width: 800px;
+    text-align: center;
+    margin: auto;
+}
+
+#direccion
+{
+    width: 800px;
+    text-align: center;
+    margin: auto;
+}
+
+#telefono
+{
+    width: 800px;
+    text-align: center;
+    margin: auto;
+}
+
+#ficha
+{
+    width: 800px;
+    text-align: center;
+    margin: auto;
+}
+
+#numid
+{
+    width: 800px;
+    text-align: center;
+    margin: auto;
+}
+
+#formulario
+{
+    width: 800px;
+    text-align: center;
+    margin: auto;
+}
+
+#senaa
+{
+    width: 150px;
+    margin-top: 150px; 
+}
+
+.position-absolute
+{
+    right: 55px;
+    top: 55px;
+}
+
+body
+{
+    background-image: url("images/black.jpg");
+}
+
+strong.lgris
+{
+    color:#FE7F2D;
+}
+
+label.lgris
+{
+    color: #FE7F2D;
+}

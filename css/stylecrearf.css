@@ -1,0 +1,35 @@
+#div1
+{
+    margin-top: 350px;
+}
+#div2
+{
+
+    margin: 15px;
+}
+#div3
+{
+    margin: 15px;
+    padding: 15px;
+}
+
+.position-absolute
+{
+    left: 85px;
+    top: 55px;
+}
+
+body
+{
+    background-image: url("images/black.jpg");
+}
+
+strong.lgris
+{
+    color:#FE7F2D;
+}
+
+label.lgris
+{
+    color:#FE7F2D;
+}

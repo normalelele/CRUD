@@ -1,0 +1,28 @@
+#div1
+{
+    margin-top: 250px;
+    width: 740px;
+    height: 600px;
+}
+
+#div2
+{
+    height: 550px;
+}
+
+#div3
+{
+    height: 505px;
+    text-align: center;
+}
+
+label.lgris
+{
+    font-size: 20px;
+    color:#FE7F2D;
+}
+
+body
+{
+    background-image: url("images/black.jpg");
+}
